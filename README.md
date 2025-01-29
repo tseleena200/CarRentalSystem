@@ -26,6 +26,6 @@ This application is built using Java, JSP, and Apache Tomcat.
 ### Steps to Set Up the Project
 1. Clone this repository to your local system:
    ```bash
-  git clone https://github.com/tseleena200/CarRentalSystem.git
+
 
 
